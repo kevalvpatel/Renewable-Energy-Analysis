@@ -3,6 +3,8 @@ This project uses PowerBI to analyze and visualize detailed information about va
 
 🔗 Link to the dataset - [Kaggle](https://www.kaggle.com/datasets/girumwondemagegn/dataset-for-renewable-energy-systems)
 
+## Dashboard
+![](img/Dashboard.png)
 
 ## Overview
 This dashboard aims to provide a comprehensive overview for useful research and analysis. It includes various Key Performance Indicators (KPIs) and analyses such as:
@@ -21,6 +23,3 @@ To get started with this project, follow the installation instructions and explo
 * Clone the repository
 * Launch PowerBI Desktop and open the .pbix file located in the repository
 * Explore the dashboard and modify it according to your liking
-
-## Demo
-![](img/Dashboard.png)
